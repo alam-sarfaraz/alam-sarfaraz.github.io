@@ -1,0 +1,80 @@
+.fontstyle
+{
+	font-family: 'Satisfy', cursive;
+}
+
+html,body
+{
+	height: 100%;
+  
+}
+.container-fluid
+{
+	min-height: 100%;
+}
+
+
+.card
+{
+	opacity: 0.6;
+}
+.card:hover {
+  -ms-transform: scale(1.0); /* IE 9 */
+  -webkit-transform: scale(1.0); /* Safari 3-8 */
+  transform: scale(1.2);
+  opacity: 1.0;
+}
+
+.sub
+{
+	color: silver;
+}
+
+.lang
+{
+	color: rgb(21, 194, 53)
+}
+
+.imagecss:hover {
+  -ms-transform: scale(1.0); /* IE 9 */
+  -webkit-transform: scale(1.0); /* Safari 3-8 */
+  transform: scale(1.2);
+  opacity: 1.0;
+  
+}
+
+
+.disp1
+{
+  margin-left: 80px;
+}
+.disp
+{
+  font-size: 20px;
+}
+
+
+a.nav-link
+{
+  color: silver;
+}
+
+a.nav-link:hover{
+  background: whitesmoke;
+  color: black;
+  font-weight: bold; 
+  
+}
+
+a.nav-link.active{
+  background: whitesmoke;
+  color: black;
+  font-weight: bold;  
+}
+
+.icon1:hover
+{
+  font-size: 50px;
+   color:rgb(26, 214, 76);
+}
+
